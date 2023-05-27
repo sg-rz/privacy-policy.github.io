@@ -1,1 +1,1 @@
-# sg-rz.github.io
+# Política de Privacidad de RomiBot.
