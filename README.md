@@ -10,7 +10,15 @@ Zeuss pode revisar esta Política de Privacidade de tempos em tempos. A versão 
 
 ### 1.1. *Informação Pessoal*.
 
-O desenvolvedor coleta apenas Dados Pessoais que você nos fornece voluntariamente. "Dados pessoais" são definidos como **qualquer informação que possa ser usada para identificar um indivíduo** e inclui, mas não está limitado a, **seu nome registrado no WhatsApp e número de telefone ou userId.**
+O desenvolvedor coleta apenas Dados Pessoais que você nos fornece voluntariamente. "Dados pessoais" são definidos como **qualquer informação que possa ser usada para identificar um indivíduo** e inclui, mas não está limitado a:
+    **A.** Seu nome cadastrado no seu perfil de WhatsApp.
+    **B.** Seu número de telefone cadastrado no seu perfil de WhatsApp.
+    **C.** Sua ID de WhatsApp.
+    **D.** Sua UUID4 própria, gerada aleatóriamente pelo sistema do bot para identificação.
+    **E.** Seu VeriCode gerado aleatóriamente pelo sistema do bot para evitar "raids" cometidas por outros bots.
+    **F.** Informações de classificação, como: se o usuário está na lista negra, se é desenvolvedor ou se está verificado por meio de captcha.
 Se você entrar em contato conosco por e-mail de contato, poderemos coletar **seu nome, endereço de e-mail e o conteúdo de sua mensagem para responder a você.**
+
+O desenvolvedor **nunca venderá nem providenciará essas informações a terceiros**, as informações coletadas serão usadas para identificação e classificação do usuário, o usuário pode consultar a qualquer momento as informações que estão sendo coletadas com o comando "+meusdados", e também pode deletar todas essas informações coletadas por meio de uma solicitação no nosso e-mail de contato, mesmo significando a sua finalização do seu direito a uso de "RomiBot".
 
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em ***zeuss.developer@gmail.com***.
